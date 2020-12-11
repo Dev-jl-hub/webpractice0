@@ -1,0 +1,15 @@
+.aside {
+  text-align: center;
+  border: 1px solid black;
+  width: 300px;
+  height: auto;
+  margin-left: 75%;
+  margin-top: 5%;
+  position: absolute;
+  background: linear-gradient(
+    rgb(25, 119, 243),
+    rgb(42, 190, 87),
+    rgb(31, 151, 231)
+  );
+  border-radius: 5px;
+}
